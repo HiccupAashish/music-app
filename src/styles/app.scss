@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    // background-color: lightblue;
+    box-sizing: border-box;
+}
+h1,h2,h3{
+    color: black;
+    font-weight: bold;
+}
+body{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Nunito', sans-serif;
+}
+h3,h4{
+    font-weight: 400;
+    color:rgb(12, 12, 12)
+}
+.App{
+    // margin-bottom: 0px;
+    padding-bottom: 0px;
+    height:100%;
+ transition: all 0.5s ease;
+ overflow: hidden;
+}
+.library-active{
+    margin-left: 20%;
+    margin-bottom: 0%;
+}
